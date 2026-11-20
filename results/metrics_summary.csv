@@ -1,0 +1,4 @@
+Model,CV_Accuracy (%),CV_Precision (%),CV_Recall (%),CV_F1 (%),CV_MCC,Test_Accuracy (%),Test_Precision (%),Test_Recall (%),Test_F1 (%),Test_MCC,Train_Time (s),Test_Latency (s)
+FC_Default_J48,94.25,94.54,95.18,94.85,0.8835,94.75,95.21,95.37,95.29,0.8937,0.1973,0.0048
+FC_InfoGain15_J48,93.75,94.09,94.74,94.41,0.8734,94.21,95.02,94.56,94.79,0.8828,0.2213,0.0054
+FC_InfoGain15_RF,96.35,96.07,97.43,96.74,0.926,96.79,96.55,97.73,97.13,0.9349,1.012,0.1133
